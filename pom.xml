@@ -15,7 +15,7 @@
 	<repository>
 	<id>upes</id>
 	<name>Releases</name>
-	<url>hhttp://localhost:8081/repository/releases/</url>
+	<url>http://localhost:8081/repository/SAMPLE_SNAP/</url>
 	</repository>
 </repositories>
 <distributionManagement>
